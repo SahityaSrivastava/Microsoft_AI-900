@@ -370,6 +370,6 @@ if analyze:
 
 st.markdown("""
 <div class="footerx">
-⚡ Powered by Microsoft Azure Cognitive Services • Premium SaaS UI
+⚡ Powered by Microsoft Azure Cognitive Services 
 </div>
 """, unsafe_allow_html=True)
